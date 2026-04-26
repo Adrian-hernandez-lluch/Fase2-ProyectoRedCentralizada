@@ -1,0 +1,5 @@
+Name:Description:Path
+Administracion:UO Departamento Administración:OU=Departamentos,OU=IES_Jaume_I,DC=iesjaumei,DC=mylocal
+Profesorado_ESOBAT:UO Departamento Profesorado ESO/BAT:OU=Departamentos,OU=IES_Jaume_I,DC=iesjaumei,DC=mylocal
+Alumnado_Ciclos:UO Departamento Alumnado Ciclos:OU=Departamentos,OU=IES_Jaume_I,DC=iesjaumei,DC=mylocal
+Direccion:UO Departamento Dirección:OU=Departamentos,OU=IES_Jaume_I,DC=iesjaumei,DC=mylocal
