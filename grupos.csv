@@ -1,0 +1,5 @@
+Name:Path:Description:Category:Scope
+GG-Administracion:OU=Administracion,OU=Departamentos,OU=IES_Jaume_I,DC=iesjaumei,DC=mylocal:Grupo global y de seguridad del departamento Administración:Security:Global
+GG-Profesorado_ESOBAT:OU=Profesorado_ESOBAT,OU=Departamentos,OU=IES_Jaume_I,DC=iesjaumei,DC=mylocal:Grupo global y de seguridad del departamento Profesorado ESO/BAT:Security:Global
+GG-Alumnado_Ciclos:OU=Alumnado_Ciclos,OU=Departamentos,OU=IES_Jaume_I,DC=iesjaumei,DC=mylocal:Grupo global y de seguridad del departamento Alumnado Ciclos:Security:Global
+GG-Direccion:OU=Direccion,OU=Departamentos,OU=IES_Jaume_I,DC=iesjaumei,DC=mylocal:Grupo global y de seguridad del departamento Dirección:Security:Global
