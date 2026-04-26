@@ -1,0 +1,5 @@
+Computer:Path
+W11IJ-001:OU=Equipos-Administracion,OU=Administracion,OU=Departamentos,OU=IES_Jaume_I,DC=iesjaumei,DC=mylocal
+W11IJ-002:OU=Equipos-Direccion,OU=Direccion,OU=Departamentos,OU=IES_Jaume_I,DC=iesjaumei,DC=mylocal
+UDIJ-001:OU=Equipos-Profesorado_ESOBAT,OU=Profesorado_ESOBAT,OU=Departamentos,OU=IES_Jaume_I,DC=iesjaumei,DC=mylocal
+UDIJ-002:OU=Equipos-Alumnado_Ciclos,OU=Alumnado_Ciclos,OU=Departamentos,OU=IES_Jaume_I,DC=iesjaumei,DC=mylocal
